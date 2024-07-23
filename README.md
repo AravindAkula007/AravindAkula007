@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AravindAkula007
+- 👋 Hi, I’m @AravindAkula
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently mastering Python, Tableau, R, MySQL, Artificial intelligence and Deep learning
+- 🌱 I’m currently mastering Python, MySQL, Tableau, Artificial intelligence and Deep learning
 - 💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intelligence.
 - 📫 You can reach me on my email id m.aravind0030@gmail.com
 
