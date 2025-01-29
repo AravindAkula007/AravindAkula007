@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AravindAkula
+- 👋 Hi, I’m @AravindM
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently mastering Python, MySQL, Tableau, and Deep learning
 - 💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intelligence.
