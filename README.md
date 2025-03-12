@@ -6,15 +6,19 @@
 - **Power BI | SQL | Python | Tableau | MySQL | Data Storytelling**  
 - **ETL | Data Cleaning | KPI Analysis | Dashboarding**  
 
-📜 **Certifications:**  
-- **Data Science Certification** – AI Variant  
+📜 **Certifications:** 
 - **Data Analytics Certification** – PwC Forage  
+- **Data Visualization & Insights Certification** – Tata Group Forage 
+- **Data Analyst Certification** – AI Variant
+- **Data Science Certification** – AI Variant  
+ 
 
 📊 **Power BI Projects:**  
 - **Bank Analysis** – Financial insights & risk assessment  
 - **Zomato Sales Analysis** – Customer behavior & sales trends  
 - **HR Manager Dashboard** – Employee performance & attrition metrics  
 - **PwC Call Center Analysis** – Customer service efficiency & improvements  
+- **Online Retail Analysis** – Sales trends, revenue insights & customer purchasing behavior  
 
 💡 **Looking to Collaborate On:**  
 - **Data Analytics, Business Intelligence, and Dashboarding projects**  
