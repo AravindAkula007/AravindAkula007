@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @AravindM
-- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently mastering Python, MySQL, Tableau, and Deep learning
-- 💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intelligence.
-- 📫 You can reach me on my email id m.aravind0030@gmail.com
-- Has Handson on couple of project on Book Recommendation Systems and Stock Market Analysis.
+Jaydeep9596/README.md
+JAYDEEP pATEL (1)
 
-<!---
-AravindAkula007/AravindAkula007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋, I'm Jaydeep patel
+Hello World! 👋
+Jaydeep's LinkedinJaydeep's Github
+I'm Jaydeep and welcome to my GitHub profile!
+Coding
+
+
+⚡ Fun fact:
+
+Before switching to Data Science, I'm working on Front hand Co-Ordinator in HDFC Bank.
+Currently learning Data Science from intellipaat.
+Interested in Machine Learning and Deep Learning
+💻 Languages/Tech Stack:
+
+Python R MicrosoftSQLServer  
+
+ jaydeep9596
+
+jaydeep9596
+
+jaydeep9596
