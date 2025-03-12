@@ -1,6 +1,6 @@
 ### **🚀 Data Analyst | Power BI | SQL | Data Visualization**  
 
-👋 Hi, I’m **@AravindM**, a passionate **Data Analyst** with **3+ years of IT experience**, specializing in **Power BI, SQL, and Data Visualization**. I thrive on transforming raw data into actionable insights to drive business decisions.  
+👋 Hi, I’m **@AravindM**, a passionate **Data Analyst** with **3 years of IT experience**, specializing in **Power BI, SQL, and Data Visualization**. I thrive on transforming raw data into actionable insights to drive business decisions.  
 
 🔍 **Skills & Expertise:**  
 - **Power BI | SQL | Python | Tableau | MySQL | Data Storytelling**  
