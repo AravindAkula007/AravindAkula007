@@ -1,16 +1,24 @@
-### **🚀 Data Analyst | Data Science Enthusiast | Power BI | SQL | AI & ML**  
+### **🚀 Data Analyst | Power BI | SQL | Data Visualization**  
 
-👋 Hi, I’m **@AravindM**, a data enthusiast with **3+ years of IT experience**, transitioning into **Data Analytics & Data Science**. Passionate about **Machine Learning, AI, and Data-Driven Decision Making**.  
+👋 Hi, I’m **@AravindM**, a passionate **Data Analyst** with **3+ years of IT experience**, specializing in **Power BI, SQL, and Data Visualization**. I thrive on transforming raw data into actionable insights to drive business decisions.  
 
-🔍 **What I Do:**  
-- Skilled in **Python, SQL, Power BI, Tableau, and Deep Learning**  
-- Hands-on experience with **Book Recommendation Systems & Stock Market Analysis**  
-- Certified in **Data Science (AI Variant) & Data Analytics (PwC Forage)**  
+🔍 **Skills & Expertise:**  
+- **Power BI | SQL | Python | Tableau | MySQL | Data Storytelling**  
+- **ETL | Data Cleaning | KPI Analysis | Dashboarding**  
+
+📜 **Certifications:**  
+- **Data Science Certification** – AI Variant  
+- **Data Analytics Certification** – PwC Forage  
+
+📊 **Power BI Projects:**  
+- **Bank Analysis** – Financial insights & risk assessment  
+- **Zomato Sales Analysis** – Customer behavior & sales trends  
+- **HR Manager Dashboard** – Employee performance & attrition metrics  
+- **PwC Call Center Analysis** – Customer service efficiency & improvements  
 
 💡 **Looking to Collaborate On:**  
-- **Data Science, Machine Learning, and AI projects**  
-- **Business Intelligence & Data Visualization**  
+- **Data Analytics, Business Intelligence, and Dashboarding projects**  
 
 📫 **Reach me at:** m.aravind0030@gmail.com  
 
-Let’s connect and build something amazing! 🚀
+Let’s connect and turn data into decisions! 🚀
